@@ -1,2 +1,3 @@
 # Mean-Absolute-Deviation-Packaging
-Packing functions to be integrated into developing software, the Quality Compute Engine. Mean Absolute Deviation can be derived from talking degree centrality values and averaging them to analyze brain data. 
+Packing functions to be integrated into developing software, the Quality Compute Engine. Mean Absolute Deviation can be derived from talking degree centrality values and averaging them to analyze brain data.
+Using Mean Absolute Deviation from degree centrality because degree centrality is defined as the number of links incident upon a node (i.e., the number of ties that a node has) thus, it could inform us of the clustering without using k-means. We could then take make a statement such as if you are below x average intensity and y standard deviation, we recommend investigating for black tiles or upload errors. 
